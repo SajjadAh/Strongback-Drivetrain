@@ -12,7 +12,6 @@ public class Robot extends edu.wpi.first.wpilibj.IterativeRobot {
 	private static final int LR_MOTOR_PORT = 2;
 	private static final int RF_MOTOR_PORT = 3;
 	private static final int RR_MOTOR_PORT = 4;
-	/* Motors and Joystick */
 	
 	private TankDrive drive;
 	private ContinuousRange driveSpeed;
