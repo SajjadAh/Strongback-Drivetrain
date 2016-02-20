@@ -5,6 +5,7 @@ import org.strongback.components.ui.FlightStick;
 import org.strongback.drive.TankDrive;
 import org.strongback.hardware.Hardware;
 import org.strongback.hardware.Hardware.Motors;
+
 public class Robot extends edu.wpi.first.wpilibj.IterativeRobot {
 	private static final int JOYSTICK_PORT = 1;
 	private static final int LF_MOTOR_PORT = 1;
